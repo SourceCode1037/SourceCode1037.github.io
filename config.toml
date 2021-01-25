@@ -1,5 +1,5 @@
 baseurl = "https://sourcecode1037.github.io/"
-title = "console-demo"
+title = "Zeyuan"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
@@ -12,7 +12,7 @@ languageCode = "en-us"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "about/"
+  name = "profile/"
   url = "about/"
 
   [[params.navlinks]]
@@ -22,3 +22,8 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "photos/"
   url = "photos/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
