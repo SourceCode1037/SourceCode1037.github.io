@@ -16,9 +16,10 @@ $ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hug
     
 See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
 
+I'm Zeyuan Yin
 <!--  
 
-I’m a junior undergraduate student studying Computer Science in  Huazhong University of Science and Technology ([HUST](http://english.hust.edu.cn/)). I’m expected to graduate in 2022.
+I'm a junior undergraduate student studying Computer Science in  Huazhong University of Science and Technology ([HUST](http://english.hust.edu.cn/)). I'm expected to graduate in 2022.
 
 ## Education
 
